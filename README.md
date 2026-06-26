@@ -158,7 +158,7 @@ python src/train_moe_lora_experts.py
 
 ##  Checkpoints & Assets
 
-All trained model weights, MoE routers, and checkpoints are publicly hosted on Hugging Face [Models-anlp](https://huggingface.co/Ekansh112/models-anlp).
+All trained model weights, MoE routers, and checkpoints are publicly hosted on Hugging Face [Models](https://huggingface.co/Ekansh112/models-anlp).
 
 
 ## 📜 License

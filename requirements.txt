@@ -1,0 +1,24 @@
+# Core Deep Learning & NLP
+torch>=2.2.0
+transformers>=4.40.0
+datasets>=2.18.0
+evaluate>=0.4.0
+peft>=0.10.0
+
+# Unsloth for fast fine-tuning
+unsloth>=2024.4.0
+
+# Experiment Tracking & Hub
+wandb>=0.16.0
+huggingface_hub>=0.22.0
+
+# Evaluation Metrics
+rouge_score>=0.1.2
+bert_score>=0.3.13
+sacrebleu>=2.4.0
+nltk>=3.8.1
+
+# Data Processing & Utilities
+numpy<2.0.0  # Kept below 2.0 to prevent compatibility issues with older evaluate scripts
+pandas>=2.0.0
+tqdm>=4.66.0

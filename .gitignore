@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# Hugging Face & W&B Cache
+~/.cache/huggingface/
+wandb/
+
+# =========================================
+# Project Specific Ignored Files
+# =========================================
+
+# Model Checkpoints and Weights
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoints/
+flan_t5_xsum_lora/
+flan_t5_xsum_lora_final/
+unsloth_llama1b_xsum_ckpts/
+

@@ -1,4 +1,12 @@
 #  Sparse Mixture of Experts (MoE) for Text Summarization
+<div align="center">
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-FFD21E?style=for-the-badge&color=FFD21E)](https://huggingface.co/Ekansh112)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+</div>
 
 **A from-scratch PyTorch implementation of Sparse MoE Transformers with LoRA and Grouped Query Attention**
 
